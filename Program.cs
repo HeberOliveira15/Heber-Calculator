@@ -13,7 +13,7 @@ namespace Calculator
         static void Menu()
         {
 
-            Console.WriteLine("O que deseja fazer?");
+            Console.WriteLine("O que deseja fazer nesse momento?");
             Console.WriteLine("Opção 1 = Soma.");
             Console.WriteLine("Opção 2 = Subtração.");
             Console.WriteLine("Opção 3 = Divisão.");
